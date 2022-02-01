@@ -1,0 +1,5 @@
+{
+
+    "mongoURI":
+    "mongodb+srv://harxssh:admin@mernatoz.gonsk.mongodb.net/MernAtoZ?retryWrites=true&w=majority"
+}
